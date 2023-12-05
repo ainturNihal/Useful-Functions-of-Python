@@ -11,3 +11,4 @@
 str(a).replace('x','y') [this will also replace x to y] 
 username = "ChRIS HemsWORTHy".title() [This will fix the upper lower case issue]
 username = "Ronald HemsWORTHy".title().strip('y') [it will remove y to make worth instead of wrong "WORTHY]
+a = len("Iam the best") [this will count howmany characters are here in a,in this example there are 12 characters.]
