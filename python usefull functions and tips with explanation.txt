@@ -10,3 +10,4 @@
    a.reverse() [this method will aslo sort the numbers from assending to dessending]
 str(a).replace('x','y') [this will also replace x to y] 
 username = "ChRIS HemsWORTHy".title() [This will fix the upper lower case issue]
+username = "Ronald HemsWORTHy".title().strip('y') [it will remove y to make worth instead of wrong "WORTHY]
