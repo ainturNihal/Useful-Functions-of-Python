@@ -8,4 +8,4 @@
 5. a.sort(reverse=True) [itwill sort them from dessending to assneding]
 6. a.sort()
    a.reverse() [this method will aslo sort the numbers from assending to dessending]
- 
+str(a).replace('x','y') [this will also replace x to y] 
