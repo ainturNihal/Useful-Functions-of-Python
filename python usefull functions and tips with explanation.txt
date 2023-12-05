@@ -1,0 +1,11 @@
+#python useful functions
+#Here a is the veriable
+
+1. a.replace(0,1) [here 0 will be replaced by 1 {if it does't work use " "}
+2. a.replace ('Henry','jane') [This will replace henry to jane {use this during using name} 
+3. a.clear() [it will clear everything]
+4. a.sort() [it will sort/rearrange every number from assending to dessending]
+5. a.sort(reverse=True) [itwill sort them from dessending to assneding]
+6. a.sort()
+   a.reverse() [this method will aslo sort the numbers from assending to dessending]
+ 
