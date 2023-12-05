@@ -9,3 +9,4 @@
 6. a.sort()
    a.reverse() [this method will aslo sort the numbers from assending to dessending]
 str(a).replace('x','y') [this will also replace x to y] 
+username = "ChRIS HemsWORTHy".title() [This will fix the upper lower case issue]
